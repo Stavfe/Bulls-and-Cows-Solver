@@ -1,2 +1,2 @@
 # Bulls-and-Cows-Solver
-simple bulls and cows solver written in python, solves in 7 tries or less
+simple bulls and cows solver written in python, could be more efficient, got this question in a job interview.
